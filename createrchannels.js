@@ -14,7 +14,7 @@ const {
 } = require('discord.js');
 
 // ================= CONFIGURAÇÃO =================
-const TOKEN = "MTQxMjg1MTA4MDk5NTI3NDgxMg.GZEguG.SazJBpv7pZ44wRjzZeIegOTaHM-BwefGfYIxGc"; // <--- COLOQUE SEU TOKEN AQUI
+const TOKEN = ""; // <--- COLOQUE SEU TOKEN AQUI
 const PREFIXO = "!";
 // ================================================
 

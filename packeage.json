@@ -1,0 +1,12 @@
+{
+  "name": "bot-canais-pro",
+  "version": "1.0.0",
+  "description": "Bot de criação de canais",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
